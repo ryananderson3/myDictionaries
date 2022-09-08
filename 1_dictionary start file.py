@@ -112,7 +112,7 @@ print('*****  end section 6 ********')
 print()
 
 
-
+'''
 print()
 print('*****  start section 7 - using pop method ********')
 print()
